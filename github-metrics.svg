@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1529" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1516" class="">
     <defs>
         <style/>
     </defs>
@@ -85,14 +85,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="328.4517240372544" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="328.4517240372544" y="0" width="44.47111033254504" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="372.92283436979943" y="0" width="28.803538582815104" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="401.72637295261455" y="0" width="26.465796619076816" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="428.19216957169135" y="0" width="17.068990686403318" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="445.26116025809466" y="0" width="8.596245365098829" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="453.85740562319353" y="0" width="4.6953373624127765" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="458.5527429856063" y="0" width="1.4472570143937402" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="328.9268847686665" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="328.9268847686665" y="0" width="44.53544528275502" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="373.4623300514216" y="0" width="28.845207752006967" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="402.30753780342854" y="0" width="26.50408385083298" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="428.8116216542615" y="0" width="16.42821639006655" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="445.2398380443281" y="0" width="8.608681281661763" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="453.8485193259898" y="0" width="4.7021299586212155" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="458.55064928461104" y="0" width="1.4493507153889669" height="8" fill="#dea584"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -189,12 +189,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 30 commits)</small>
+                    <small class="h-details">(computed from last 31 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 11.8 characters per line of code written</li>
+                        <li>Has approximately 12.1 characters per line of code written</li>
                         <li>Mostly pushes code around 14:00</li>
                         <li>Mostly active on Wednesday</li>
                     </ul>
@@ -1305,7 +1305,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="82.38021902806298 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="82.59240246406571 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1341,7 +1341,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="88.01507537688443 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="88.79396984924624 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1363,7 +1363,7 @@
                                     <span class="prefix"></span>
                                     Deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 114 times</div>
+                                <div class="text">Repositories have been deployed 115 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1634,7 +1634,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.27m out of 206m repositories</span>
+                                    <span class="gh">ranked 5.27m out of 195m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1723,9 +1723,9 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">15e2480c</span>
-                            <span class="code">requirements-dev.lock</span>
+                            <span class="code">pyproject.toml</span>
                             <span class="code">
-                                <span class="snippet additions">++2</span>
+                                <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--0</span>
                             </span>
                         </div>
@@ -1734,14 +1734,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1118,6 +1118,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"># via pwntools<br /></span><span class="token prefix unchanged">·</span><span class="token line"># via rich<br /></span><span class="token prefix unchanged">·</span><span class="token line"># via sphinx<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">pygraphviz==1.13<br /></span><span class="token prefix inserted">+</span><span class="token line"># via mlstudy<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">pymc==5.15.0<br /></span><span class="token prefix unchanged">·</span><span class="token line"># via mlstudy<br /></span><span class="token prefix unchanged">·</span><span class="token line">pymongo==4.7.2</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -127,6 +127,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">"kaggle&lt;=1.6",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"torchinfo&gt;=1.8.0",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"ipadic&gt;=1.0.0",<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">"pygraphviz&gt;=1.13",<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">]<br /></span><span class="token prefix unchanged">·</span><span class="token line">readme = "README.md"<br /></span><span class="token prefix unchanged">·</span><span class="token line">requires-python = "&gt;= 3.8"</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jun 2024, 15:18:28 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jun 2024, 21:25:17 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
