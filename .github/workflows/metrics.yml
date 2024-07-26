@@ -31,7 +31,7 @@ jobs:
 
           plugin_languages: yes
           plugin_languages_ignored: |
-            HTML,CSS,JavaScript,SCSS,TypeScript,Vue,JSON,Markdown,XML,YAML,Jupyter Notebook,Shell
+            HTML,CSS,JavaScript,SCSS,TypeScript,Vue,JSON,Markdown,XML,YAML,Jupyter Notebook,Shell,INI,TOML,Dotenv,robots.txt,SVG,SQL,CSV,Makefile,Text,Plain Text,Diff,Apache Config,Markdown,HTML,JavaScript,TypeScript,SCSS,Vue,JSON,XML,YAML
 
           plugin_languages_skipped: Markdown
           plugin_languages_other: yes
