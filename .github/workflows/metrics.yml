@@ -32,7 +32,6 @@ jobs:
 
           plugin_habits: yes
           plugin_habits_charts: yes
-          plugin_habits_duration: 14
           plugin_gists: yes
 
           plugin_leetcode: no
