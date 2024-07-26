@@ -16,7 +16,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: n4okins
-          template: repository
+          template: classic
           base: header,activity,community,repositories,metadata
 
           config_timezone: Asia/Tokyo
