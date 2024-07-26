@@ -8,5 +8,5 @@
 </a>
 
 <a href="https://github.com/lowlighter/metrics">
-![Metrics](/github-metrics.svg)
+    <img align="center" src="/github-metrics.svg">
 </a>
